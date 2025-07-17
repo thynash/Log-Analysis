@@ -1,0 +1,20 @@
+# Ignore large preprocessed files
+data/HDFS.log
+data/preprocessed/*.csv
+data/preprocessed/*.npz
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
+
