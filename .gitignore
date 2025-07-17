@@ -1,7 +1,6 @@
 # Ignore large preprocessed files
 data/HDFS.log
-data/preprocessed/*.csv
-data/preprocessed/*.npz
+data/preprocessed/
 
 # Ignore system files
 .DS_Store
